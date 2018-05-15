@@ -73,3 +73,6 @@ SpringJam/Intermediate/*
 
 # Cache files for the editor to use
 SpringJam/DerivedDataCache/*
+
+#builds too
+SpringJam/Builds/*
